@@ -2,7 +2,7 @@ body {
   background-color: #aaaaaa;
 }
 
-.container {
+.container-fluid {
   background-color: #aaaaaa;
 }
 
@@ -18,8 +18,9 @@ body {
   padding: 0px;
 }
 
-.sidebar a {
+.sidebar ul {
   float: none;
+  padding-left: 20px;
 }
 
 .row {
@@ -39,19 +40,11 @@ body {
   margin-bottom: 20px;
 }
 
-/* attempt to target first and last colomns in a row */
-/* .row classes[href^="col"]:first-child {
-  margin-left: 0px;
-  padding-left: 0px;
-  padding-left: 0px;
-  padding-right: 0px;
-} */
-
 .col-md-6 {
   margin-left: 0px;
   margin-right: 0px;
   padding-left: 0px;
-  padding-right: 0px;
+  padding-right: 8px;
 }
 
 @media screen and (max-width: 720px) {
