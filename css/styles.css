@@ -8,6 +8,12 @@ body {
   padding-right: 0px;
 }
 
+.container-fluid h2 {
+  font-size: 25px;
+  font-family: monospace;
+  font-weight: 350;
+}
+
 .language {
   font-weight: bold;
   font-size: 18px;
@@ -54,12 +60,16 @@ body {
   padding-right: 8px;
 }
 
-@media screen and (max-width: 720px) {
+blockquote p {
+  font-family: fantasy;
+}
 
+@media screen and (max-width: 720px) {
   .portrait {
     text-align: center;
     margin: auto;
     min-width: 248px;
     margin-bottom: 20px;
   }
+
 }
