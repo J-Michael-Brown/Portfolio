@@ -5,6 +5,7 @@ body {
 .container-fluid {
   background-color: inherit;
   font-family: sans-serif;
+  padding-right: 0px;
 }
 
 .language {
