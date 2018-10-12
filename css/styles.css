@@ -3,7 +3,8 @@ body {
 }
 
 .container-fluid {
-  background-color: #aaaaaa;
+  background-color: inherit;
+  font-family: sans-serif;
 }
 
 .language {
@@ -16,11 +17,15 @@ body {
   float: right;
   margin: 0px;
   padding: 0px;
+  font-family: sans-serif;
 }
 
-.sidebar ul {
-  float: none;
-  padding-left: 20px;
+.sidebar dl dt {
+  font-size: 20px;
+}
+
+.sidebar dl dd {
+  padding-bottom: 20px;
 }
 
 .row {
