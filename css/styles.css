@@ -1,3 +1,11 @@
+body {
+  background-color: #aaaaaa;
+}
+
+.container {
+  background-color: #aaaaaa;
+}
+
 .language {
   font-weight: bold;
   font-size: 18px;
@@ -22,11 +30,13 @@
 }
 
 .portrait {
+  background-color: white;
   width: 50%;
   border: solid red 10px;
   text-align: center;
   padding: 0px;
   margin: auto;
+  margin-bottom: 20px;
 }
 
 /* attempt to target first and last colomns in a row */
@@ -40,19 +50,9 @@
 .col-md-6 {
   margin-left: 0px;
   margin-right: 0px;
-
   padding-left: 0px;
   padding-right: 0px;
-
 }
-
-
-
-
-
-
-
-
 
 @media screen and (max-width: 720px) {
 
@@ -60,5 +60,6 @@
     text-align: center;
     margin: auto;
     width: 90%;
+    margin-bottom: 20px;
   }
 }
