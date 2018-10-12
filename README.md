@@ -11,10 +11,15 @@ _This is the Landing page for all projects I will show to my teachers. At some p
 ## Setup/Installation Requirements
 
  _1. Open your terminal (command+spacebar on homepage for mac, to search for "terminal")_
+
  _2. Navigate to your desktop (input "cd ~" to go to home directory then "cd desktop" to move to desktop)_
+
  _3. Copy url for a clone (located top right of listed files in green)_
+
  _4. Clone onto Desktop (type "git clone <url link>")_
+
  _5. Open website in a browser (double click the "Portfolio" file on your desktop then double click the "index.html" file)_
+ 
 * _Or open the page at this url: https://j-michael-brown.github.io/Portfolio/_
 
 _Requires git to be downloaded on your devise to use instructed git terminal commands._
