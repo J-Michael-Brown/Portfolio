@@ -3,10 +3,22 @@
   font-size: 18px;
 }
 
+.sidebar {
+  width: 150px;
+  float: right;
+  margin: 0px;
+  padding: 0px;
+}
+
+.sidebar a {
+  float: none;
+}
+
 .row {
   margin: auto;
   margin-left: 0px;
-  margin-right: 0px;
+  margin-right: 155px;
+  padding-right: 0px;
 }
 
 .portrait {
@@ -16,6 +28,10 @@
   padding: 0px;
   margin: inherit;
 }
+
+/* .portrait img {
+
+} */
 
 .[href="col"]:first-child { /* deos nothing as of yet*/
   margin-left: 0px;
