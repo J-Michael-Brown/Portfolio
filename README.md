@@ -15,6 +15,6 @@
 #
 #_Project demonstrates an understanding of this week's concepts. If prompted, you can discuss your code with an instructor using the correct terminology._
 #
-#_Bootstrap classes are used to style the page. his means explicitly using classes mentioned on this page, not just linking the Bootstrap stylesheet._
+#_Bootstrap classes are used to style the page; this means explicitly using classes mentioned on this page, not just linking the Bootstrap stylesheet._
 #
 #_Code is clean, well-refactored, and easy-to-read. This includes correct indentation, spacing, and including only necessary comments and debugging tools._
