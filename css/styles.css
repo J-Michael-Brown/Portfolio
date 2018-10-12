@@ -1,0 +1,23 @@
+.language {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.row {
+  margin: auto;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.portrait {
+  width: 50%;
+  border: solid red 10px;
+  text-align: center;
+  padding: 0px;
+  margin: inherit;
+}
+
+.[href="col"]:first-child { /* deos nothing as of yet*/
+  margin-left: 0px;
+  padding-left: 0px;
+}
