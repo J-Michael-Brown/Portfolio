@@ -2,36 +2,36 @@
 
 #### _Landing page for programming portfolio, Oct.12 2018_
 
-#### By _**Brown, J Michael**_
+#### By _**Brown, J. Michael**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_This is the Landing page for all projects I will show to my teachers. At some point in the future, it may also be shown to employers._
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _1. Open your terminal (command+spacebar on homepage for mac, to search for "terminal")_
+* _2. Navigate to your desktop (input "cd ~" to go to home directory then "cd desktop" to move to desktop)_
+* _3. Copy url for a clone (located top right of listed files in green)_
+* _4. Clone onto Desktop (type "git clone <url link>")_
+* _5. Open website in a browser (double click the "Portfolio" file on your desktop then double click the "index.html" file)_
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+_Requires git to be downloaded on your devise to use instructed git terminal commands._
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_No known bugs yet. Contact me via email if you would like to report any._
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_If you run into any issues or have questions, ideas or concerns, or if you want to make a contribution to the code. You can email me @jmichaelbrown132737@gmail.com_
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_Utilizes Bootstrap.css_
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*MIT license*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2018 **_{John Michael Brown}_**
