@@ -26,14 +26,37 @@
   border: solid red 10px;
   text-align: center;
   padding: 0px;
-  margin: inherit;
+  margin: auto;
 }
 
-/* .portrait img {
-
-} */
-
-.[href="col"]:first-child { /* deos nothing as of yet*/
+/* attempt to target first and last colomns in a row */
+/* .row classes[href^="col"]:first-child {
   margin-left: 0px;
   padding-left: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+} */
+
+.col-md-6 {
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 720px) {
+
+  .portrait {
+    text-align: center;
+    margin: auto;
+    width: 90%;
+  }
 }
