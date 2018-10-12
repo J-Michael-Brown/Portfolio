@@ -4,7 +4,7 @@
 }
 
 .sidebar {
-  width: 150px;
+  width: 200px;
   float: right;
   margin: 0px;
   padding: 0px;
@@ -17,7 +17,7 @@
 .row {
   margin: auto;
   margin-left: 0px;
-  margin-right: 155px;
+  margin-right: 205px;
   padding-right: 0px;
 }
 
