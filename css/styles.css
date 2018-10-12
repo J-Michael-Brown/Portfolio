@@ -36,9 +36,10 @@ body {
 }
 
 .portrait {
-  background-color: white;
-  width: 50%;
+  background-color: black;
   border: solid red 10px;
+  width: 30%;
+  min-width: 300px;
   text-align: center;
   padding: 0px;
   margin: auto;
@@ -57,7 +58,7 @@ body {
   .portrait {
     text-align: center;
     margin: auto;
-    width: 90%;
+    min-width: 248px;
     margin-bottom: 20px;
   }
 }
